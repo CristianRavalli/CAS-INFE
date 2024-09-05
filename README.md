@@ -1,4 +1,4 @@
-# CAS-INFE
+# CAS-INFE 🙂
 
 > [!CAUTION]
 > This is a work in progress, updated on a weekly basis up until end of February 2025.
