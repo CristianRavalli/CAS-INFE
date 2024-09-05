@@ -13,10 +13,10 @@ After a Data Science Bootcamp with General Assembly in the UK this CAS is contin
     </div>
     <hr>
 
-## DB & DWH <a id="1"></a>
+## 1. DB & DWH <a id="1"></a>
 > **Note:** pending...
 
-## Scripting <a id="2"></a>
+## 2. Scripting <a id="2"></a>
 
 ### Day 1 Types and Strings <a id="2.1"></a>
 Colab Notebook Day summarising personal key takeaways from day 1.
