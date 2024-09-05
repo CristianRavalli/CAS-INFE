@@ -1,6 +1,6 @@
 # CAS-INFE
 
-> **Note:** This is a note in a blue box.
+> **Note:** This is a work in progress, updated on a weekly basis up until end of February 2025.
 
 This is a work in progress, updated on a weekly basis up until end of February 2025.
 
