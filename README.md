@@ -2,8 +2,6 @@
 
 > **Note:** This is a work in progress, updated on a weekly basis up until end of February 2025.
 
-This is a work in progress, updated on a weekly basis up until end of February 2025.
-
 After a Data Science Bootcamp with General Assembly in the UK this CAS is continueing my journey towards Data Engineering. This repository is my personal summary of the key elements within each module that aren't in my implied memory yet. 
 
 ## Table of Contents
@@ -16,7 +14,7 @@ After a Data Science Bootcamp with General Assembly in the UK this CAS is contin
     <hr>
 
 ## DB & DWH <a id="1"></a>
-pending...
+> **Note:** pending...
 
 ## Scripting <a id="2"></a>
 
