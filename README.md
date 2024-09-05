@@ -2,7 +2,7 @@
 
 > **Note:** This is a work in progress, updated on a weekly basis up until end of February 2025.
 
-After a Data Science Bootcamp with General Assembly in the UK this CAS is continueing my journey towards Data Engineering. This repository is my personal summary of the key elements within each module that aren't in my implied memory yet. 
+Having completed a Data Science Bootcamp with General Assembly in the UK, I am now furthering my professional development in the field of Data Engineering. This repository serves as a personal knowledge base, documenting key concepts and skills from each module that I'm still in the process of internalizing.
 
 ## Table of Contents
 <div class="alert alert-block alert-info" style="margin-top: 20px">
