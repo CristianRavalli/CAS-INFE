@@ -2,6 +2,14 @@
 
 > **Note:** This is a work in progress, updated on a weekly basis up until end of February 2025.
 
+- [x] Day 1 - 02.09.2024
+- [ ] Day 2 - 09.09.2024
+- [ ] Day 3 - 16.09.2024
+- [ ] Day 4 - 23.09.2024
+- [ ] Day 5 - 30.09.2024
+- [ ] Day 6 - 21.10.2024
+- [ ] Day 7 - 28.10.2024
+
 Having completed a Data Science Bootcamp with General Assembly in the UK, I am now furthering my professional development in the field of Data Engineering. This repository serves as a personal knowledge base, documenting key concepts and skills from each module that I'm still in the process of internalizing.
 
 ## Table of Contents
