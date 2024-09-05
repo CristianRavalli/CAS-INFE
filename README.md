@@ -1,6 +1,7 @@
 # CAS-INFE
 
-> **Note:** This is a work in progress, updated on a weekly basis up until end of February 2025.
+> [!CAUTION]
+> This is a work in progress, updated on a weekly basis up until end of February 2025.
 
 - [x] Day 1 - 02.09.2024
 - [ ] Day 2 - 09.09.2024
