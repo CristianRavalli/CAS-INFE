@@ -18,7 +18,7 @@ Having completed a Data Science Bootcamp with General Assembly in the UK, I am n
 
 1.  [DB & DWH](#1)<br>
 2.  [Scripting](#2) <br>
-  2.1[Day 1 Types and Strings](#2.1) <br>   
+  2.1  [Day 1 Types and Strings](#2.1) <br>   
     </div>
     <hr>
 
