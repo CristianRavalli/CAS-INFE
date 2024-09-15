@@ -11,6 +11,11 @@
 - [ ] Day 6 - 21.10.2024
 - [ ] Day 7 - 28.10.2024
 
+Topics covered separately because of particualar personal interest
+
+- [ ] Printing - Pretty Format, ("Parameter",end=" ") and more
+- [ ] Markdown - HTML, CSS, LaTex and more
+
 Having completed a Data Science Bootcamp with General Assembly in the UK, I am now furthering my professional development in the field of Data Engineering. This repository serves as a personal knowledge base, documenting key concepts and skills from each module that I'm still in the process of internalizing.
 
 ## Table of Contents
