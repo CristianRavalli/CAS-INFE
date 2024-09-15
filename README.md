@@ -3,7 +3,7 @@
 > [!CAUTION]
 > This is a work in progress, updated on a weekly basis up until end of February 2025.
 
-## Scripting                      ## DBH
+## Scripting                     
 - [x] Day 1 - 02.09.2024
 - [x] Day 2 - 09.09.2024
 - [ ] Day 3 - 16.09.2024
@@ -11,22 +11,6 @@
 - [ ] Day 5 - 30.09.2024
 - [ ] Day 6 - 21.10.2024
 - [ ] Day 7 - 28.10.2024
-
-<table>
-  <tr>
-    <td width="50%">
-      Scripting
-    </td>
-    <td width="50%">
-      DBH
-    </td>
-  </tr>
-</table>
-
-
-
-
-
 
 Topics covered separately because of particualar personal interest
 
