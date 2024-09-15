@@ -12,14 +12,17 @@
 - [ ] Day 6 - 21.10.2024
 - [ ] Day 7 - 28.10.2024
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 50%;">
-    Scripting
-  </div>
-  <div style="width: 50%;">
-    DBH
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      Scripting
+    </td>
+    <td width="50%">
+      DBH
+    </td>
+  </tr>
+</table>
+
 
 
 
